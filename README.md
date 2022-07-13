@@ -1,2 +1,2 @@
 # Python Demo Py Files
-- Small practice code
+- A collection of small practice code programs
