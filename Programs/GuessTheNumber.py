@@ -1,5 +1,5 @@
 import os
-import Programs.GuessTheNumMod as GuessTheNumMod
+import GuessTheNumMod
 
 #Program to Guess a Number Within 3 Tries
 
