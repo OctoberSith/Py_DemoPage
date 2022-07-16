@@ -1,5 +1,5 @@
 import os
-import DayBornCalcMod
+import Programs.DayBornCalcMod as DayBornCalcMod
 
 #Program to Calculate the day you were born
 print("===================================")

@@ -1,5 +1,5 @@
 import os
-import TempConvertMod
+import Programs.TempConvertMod as TempConvertMod
 
 #Asks for User Input then Returns Temperature
 print("**************************************************")

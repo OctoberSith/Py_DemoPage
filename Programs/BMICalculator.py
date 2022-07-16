@@ -1,6 +1,6 @@
 import os
 
-from BMICalcMod import bmiLogic
+from Programs.BMICalcMod import bmiLogic
 
 #Program to Calculate BMI
 

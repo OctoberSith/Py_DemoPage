@@ -1,5 +1,5 @@
 import os
-import BudgetCalcMod
+import Programs.BudgetCalcMod as BudgetCalcMod
 
 #Console Application to Determine a Proper Budget Given an Income
 
