@@ -3,7 +3,7 @@ import csv
 
 #CSV Demo Playground
 
-file = open('heroes.csv')
+file = open('CSVManipulation/heroes.csv')
 csvreader = csv.reader(file)
 
 header = []
